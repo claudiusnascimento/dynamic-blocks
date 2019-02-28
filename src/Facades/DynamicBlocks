@@ -1,0 +1,11 @@
+<?php 
+
+namespace ClaudiusNascimento\DynamicBlocks\Facades;
+
+use Illuminate\Support\Facades\Facade;
+
+class DinamicBlocks extends Facade {
+
+    protected static function getFacadeAccessor() { return 'dynamic-blocks'; }
+
+}

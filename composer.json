@@ -1,0 +1,21 @@
+{
+    "name": "claudiusnascimento/dynamic-blocks",
+    "description": "Add dynamic blocks to a models",
+    "type": "library",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Claudius Nascimento",
+            "email": "cau@claudiusnascimento.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ClaudiusNascimento\\DynamicBlocks\\": "src/DynamicBlocks"
+        }
+    },
+    "require": {
+        "laravelcollective/html":"^5.4.0"
+    }
+}
