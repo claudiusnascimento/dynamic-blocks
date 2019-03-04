@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "ClaudiusNascimento\\DynamicBlocks\\": "src/DynamicBlocks"
+            "ClaudiusNascimento\\DynamicBlocks\\": "src"
         }
     },
     "require": {
